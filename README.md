@@ -10,3 +10,14 @@ Zuzia Agent is a lightweight tool designed to monitor server performance, ensuri
 ## Releases
 This repository hosts only the **stable public releases** of Zuzia Agent.  
 Each release is thoroughly tested and ready for deployment in production environments.
+
+## Get Started with Zuzia
+Interested in unlocking advanced server management and monitoring features?  
+**[Sign up on our main website](https://zuzia.app)** to explore how Zuzia can streamline your workflow.  
+Already have an account? Visit **[my.zuzia.app](https://my.zuzia.app)** to log in and start managing your servers with ease.
+
+
+
+
+
+
